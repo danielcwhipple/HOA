@@ -639,14 +639,14 @@ img { max-width: 100%; }
 
 footer {
 	padding: 20px 0 16px 0;
-	background: #3d3d3d;
+	background: #d3d3d3;
 }
 
 .footer-copyright p {
 	margin: 0;
 	font-size: 12px;
     line-height: 32px;
-    color: #fff;
+    color: #FFF;
 }
 
 .footer-social {
