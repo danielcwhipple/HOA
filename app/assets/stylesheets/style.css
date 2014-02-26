@@ -638,14 +638,14 @@ img { max-width: 100%; }
 /***** Footer *****/
 
 footer {
-	padding: 20px 0 16px 0;
+	padding: 20px 0 8px 0;
 	background: #d3d3d3;
 }
 
 .footer-copyright p {
 	margin: 0;
-	font-size: 12px;
-    line-height: 32px;
+	font-size: 10px;
+    line-height: 12px;
     color: #FFF;
 }
 
