@@ -25,7 +25,13 @@
     </head>
 
     <body>
-  
+  <li>
+            <%= link_to new_pin_path do %>
+            <button type="button" class="btn btn-default navbar-btn-sm">
+              <span class="glyphicon glyphicon-plus"></span> New Image
+            </button>
+            <% end %>
+          </li>
 <%= render 'pins/index' %>
 
     </body>
